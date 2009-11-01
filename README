@@ -1,0 +1,19 @@
+Fudge
+========
+
+Need to make some numbers look nicer? No worries, fudge them!
+
+Example usage:
+
+Fudge::round(67); # => 70
+Fudge::round(117); # => 120
+Fudge::round(472); # => 500
+Fudge::round(7146); # => 7000
+
+Fudge::price(67); # => 69.50 
+Fudge::price(117); # => 119.00
+Fudge::price(472); # => 495.00
+Fudge::price(7146); # => 6950.00
+
+
+
